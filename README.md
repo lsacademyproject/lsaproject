@@ -2,5 +2,5 @@
 <hr>
 
 #
-Тут будет лист всех изменений
+Repository of project.
 #
